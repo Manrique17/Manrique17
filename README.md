@@ -2,6 +2,9 @@
 
 **Manrique17/Manrique17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Manrique17&count_private=true&theme=tokyonight&showicons=true)]()
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on PHP frameworks
