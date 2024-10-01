@@ -4,4 +4,4 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Manrique17&langs_count=5&theme=tokyonight)]()
 
-[![Test]](https://www.codewars.com/users/siuuu77/badges/micro)()
+![]([./path/example.svg](https://www.codewars.com/users/siuuu77/badges/micro))
